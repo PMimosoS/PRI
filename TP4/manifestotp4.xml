@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifesto>
+    <meta>
+        <id>TP4_PRI2018</id>
+        <titulo>Servidor em NodeJS</titulo>
+        <subtitulo></subtitulo>
+        <dinicio>2018-10-8</dinicio>
+        <dfim>2018-10-14</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www.di.uminho.pt/~jcr/</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A74550</id>
+            <nome>Pedro Miguel Mimoso Lopes Ferreira da Silva</nome>
+            <email>a74550@alunos.uminho.pt</email>
+            <website>https://github.com/PMimosoS/PRI</website>
+            <foto path=""/>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Este trabalho consiste na utilização e um exercicio da aual, e criar um servidor em nodeJs para as várias páginas web</para>
+    </resumo>
+    <resultados>
+        <resultado path="server.js">server.js</resultado>
+        <resultado path="manifestotp4.xml">manifestotp4.xml</resultado>
+        <resultado path="manifestotp4.html">manifestotp4.html</resultado>
+    </resultados>
+</manifesto>
