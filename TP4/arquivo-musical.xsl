@@ -61,7 +61,7 @@
                         </xsl:for-each>
                     </table>
                     </xsl:if>
-                    <p><adress>[<a href="../index">Voltar a pagina principal</a>]</adress></p>
+                    <p><adress>[<a href="../obras">Voltar a pagina principal</a>]</adress></p>
                 </body>
             </html>
         </xsl:result-document>

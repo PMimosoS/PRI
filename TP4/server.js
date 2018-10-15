@@ -19,8 +19,8 @@ function createServer(req, res) {
             console.log("Obra:"+ number)
             fs.readFile(__dirname + '/website/html/obram'+ number +'.html', fsCallback);
         break;
-        case '/index':
-            console.log("Index")
+        case '/obras':
+            console.log("Obras")
             fs.readFile(__dirname + '/website/index.html', fsCallback);   
         break;
         default:
